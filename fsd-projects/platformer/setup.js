@@ -13,7 +13,7 @@ let shouldDrawGrid = false;
 
 // Base game variables
 const frameRate = 60;
-const playerScale = 0.8; //makes the player just a bit smaller. Doesn't affect the hitbox, just the image
+const playerScale = 0.4; //makes the player just a bit smaller. Doesn't affect the hitbox, just the image
 
 // Player variables
 const player = {
@@ -98,4 +98,5 @@ var collectableList = {
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },
   steve: { image: "images/collectables/steve-head.png" },
+  curry: { image: "images/collectables/curryhead-removebg-preview.png"},
 };
