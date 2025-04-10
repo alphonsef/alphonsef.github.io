@@ -61,7 +61,7 @@ var init = function(window) {
             game.checkCirclePosition(circles[i]);
           
           }
-
+        }
         /* 
         This Function should check the position of a circle that is passed to the 
         Function. If that circle drifts off the screen, this Function should move
@@ -90,7 +90,7 @@ var init = function(window) {
           // YOUR TODO 6 CODE ENDS HERE //////////////////////////
         }
         
-      }  
+        
       /////////////////////////////////////////////////////////////
       // --- NO CODE BELOW HERE  --- DO NOT REMOVE THIS CODE --- //
       /////////////////////////////////////////////////////////////
